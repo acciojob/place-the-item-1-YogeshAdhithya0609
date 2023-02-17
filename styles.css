@@ -1,2 +1,19 @@
-
-/* Your CSS Code here. */
+.container{
+	display: flex;
+	justify-content: space-between;
+}
+.item{
+	
+}
+.item1{
+	padding:40px;
+	background-color:green;
+}
+.item2{
+	padding:40px;
+	background-color:red;
+}
+.item3{
+	padding:40px;
+	background-color:blue;
+}
